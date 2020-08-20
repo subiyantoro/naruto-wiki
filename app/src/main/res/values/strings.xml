@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Naruto Wiki</string>
+    <string name="hero_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="profile">profile</string>
+    <string name="subiyantoro">Subiyantoro</string>
+    <string name="email">subiyantoro49@gmail.com</string>
+    <string name="follow">Follow Me</string>
+</resources>
